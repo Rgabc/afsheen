@@ -14,7 +14,7 @@ async function login() {
      
       // You can redirect to another page or perform other actions after successful login
      // window.location.href="./reservation/index.html"; // Replace with the actual path of your profile
-     const url="../afsheen/index.html"
+     const url="../main/index.html"
      window.open(url, '_blank');
     
     } else { 
